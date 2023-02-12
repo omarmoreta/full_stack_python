@@ -1,32 +1,32 @@
 [
     {
-        "pet_id": 1,
-        "pet_name": "Whiskers",
-        "pet_photo": "./assets/cat.jpg",
-        "pet_fact": "Some cats are ambidextrous, but 40% are either left- or right-pawed"
+        "animal_id": 1,
+        "animal_name": "Whiskers",
+        "animal_photo": "cat.jpg",
+        "animal_fact": "Some cats are ambidextrous, but 40% are either left- or right-pawed"
     },
     {
-        "pet_id": 2,
-        "pet_name": "Snoopie",
-        "pet_photo": "./assets/dog.jpg",
-        "pet_fact": "A dog's nose print is unique, much like a person's fingerprint"
+        "animal_id": 2,
+        "animal_name": "Snoopie",
+        "animal_photo": "dog.jpg",
+        "animal_fact": "A dog's nose print is unique, much like a person's fingerprint"
     },
     {
-        "pet_id": 3,
-        "pet_name": "Simba",
-        "pet_photo": "./assets/lion.jpg",
-        "pet_fact": "Lions are the laziest of all the big cats, and can sleep for 16-20 hours each day"
+        "animal_id": 3,
+        "animal_name": "Simba",
+        "animal_photo": "lion.jpg",
+        "animal_fact": "Lions are the laziest of all the big cats, and can sleep for 16-20 hours each day"
     },
     {
-        "pet_id": 4,
-        "pet_name": "Smoky",
-        "pet_photo": "./assets/bear.jpg",
-        "pet_fact": "Bears can smell food, cubs, a mate or predators from miles away"
+        "animal_id": 4,
+        "animal_name": "Smoky",
+        "animal_photo": "bear.jpg",
+        "animal_fact": "Bears can smell food, cubs, a mate or predators from miles away"
     },
     {
-        "pet_id": 5,
-        "pet_name": "Mandi",
-        "pet_photo": "./assets/panda.jpg",
-        "pet_fact": "Pandas have 6 'fingers'!"
+        "animal_id": 5,
+        "animal_name": "Mandi",
+        "animal_photo": "panda.jpg",
+        "animal_fact": "Pandas have 6 'fingers'!"
     }
 ]

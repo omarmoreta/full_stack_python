@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Animal Spa</title>
+  </head>
+  <body>
+    <h1>Welcome to the Animal Spa</h1>
+    {% for animal in animals %}
+    <h2>{{ animal.animal_name }}</h2>
+    <img
+      src="{{url_for('static', filename= animal.animal_photo ) }}"
+      alt="Photo of animal {{ animal.animal_id }}"
+    />
+    {% endfor %}
+  </body>
+</html>
